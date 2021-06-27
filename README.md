@@ -1,2 +1,2 @@
 # LEVER.co
-Landing page of LEVER.io
+Landing page of **LEVER.io**
